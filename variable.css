@@ -1,4 +1,5 @@
 <!-- criar variaveis para as cores para ser mais facil de mexer -->
 :root{
     --primary-color: #5d547a;
+    --transition-speed: 0.3s;
 }

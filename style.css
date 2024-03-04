@@ -1,7 +1,4 @@
-<!-- criar variaveis para as cores para ser mais facil de mexer -->
-:root{
-    --primary-color: #5d547a;
-}
+@import url variable.css
 
 *{
     padding: 0;

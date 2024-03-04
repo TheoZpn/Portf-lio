@@ -71,3 +71,19 @@ body{
 .project-info{
     padding: 10px;
 }
+
+<!-- tamanho de fonte usa large, small, etc, pq aí varia de acordo com o usuario melhor -->
+@media screen and (max-width: 768px){
+    .main-navigation ul{
+        flex-direction: column;
+    }
+    .main-navigation ul{
+        margin-bottom: 10px;
+        font-size: large;
+    }
+    .profie-pic{
+        float: none;
+        display: block;
+        margin: 0 auto;
+    }
+}
